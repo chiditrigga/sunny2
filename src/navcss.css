@@ -1,0 +1,19 @@
+
+.back{
+    background-image: url('./images//desktop/image-header.jpg') !important;
+   width: 100vw;
+   height: 100vh;
+    background-position:bottom;
+    background-size: cover;
+    position: relative;
+}
+
+.ttt {
+    height: 300px !important;
+}
+
+.fbig{
+    font-weight: 700px;
+    font-size: 100px;
+    color: white;
+}
