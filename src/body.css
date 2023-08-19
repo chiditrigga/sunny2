@@ -1,0 +1,31 @@
+.photo{
+    background-image: url('./images/desktop/image-photography.jpg');
+    height: 50vh;
+    
+    
+    background-size: cover;
+    position: relative;
+    
+}
+
+.graphic{
+    background-image: url('./images//desktop/image-graphic-design.jpg');
+    height: 50vh;
+    
+    
+    background-size: cover;
+    position: relative;
+}
+.asia{
+    border-radius: 50% !important;
+    width: fit-content;
+}
+
+.let{
+    border-top: none;
+    background: white;
+}
+
+.bor{
+    border: none;
+}
